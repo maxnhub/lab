@@ -1,5 +1,5 @@
 
-# Тестовый статичный landing для Webiray
+# Test non-adaptive landing для Webiray
 
 ##  Макс Никульников
 
@@ -10,6 +10,11 @@
 ```sh
  Web-разработчик: Никульников Максим
 
+```
+#### How to look my app
+
+```sh
+https://maxnhub.github.io/lab/
 ```
 
 #### How to install and build my app
